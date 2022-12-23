@@ -56,4 +56,4 @@ It collects activity data at corp level, site level and from the request feed.
           ![09.site-activity-search](screenshots/09.site-activity-search.PNG "Site activity events")
     
       ### Requests data search
-          ![10.requests-search](screenshots/10.requests-search.PNG "Requests data")    
+      https://github.com/FaSiaka007/splunkTA/blob/main/screenshots/08.corp_activity.PNG
