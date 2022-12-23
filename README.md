@@ -49,11 +49,11 @@ It collects activity data at corp level, site level and from the request feed.
            
 6. If the credential and Input above are correct , you should see your indexes populated as configured in the interval section.
       ### Corp activity
-           ![08.corp-activity](screenshots/08.corp-activity.PNG "Corp activity events")
+           ![08.corp-activity](screenshots/08.corp_activity.PNG "Corp activity events")
       
       
       ### Site activity      
-           ![09.site-activity-search](screenshots/09.site-activity.PNG "Site activity events")
+           ![09.site-activity-search](screenshots/09.site-activity-search.PNG "Site activity events")
     
       ### Requests data      
            ![10.requests-search](screenshots/10.requests-search.PNG "Requests data")    
