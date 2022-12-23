@@ -1,9 +1,9 @@
-# Fastly NGWAF TA for Splunk App
+# Fastly NGWAF(Next-Gen WAF) TA for Splunk App
 
 This app is a Technology Add-on that collects data from the Next-Gen WAF.
 It collects activity data at corp level, site level and from the request feed.
 
-## Fastly NGWAF API calls equivalent
+## Fastly NGWAF(Next-Gen WAF) API calls equivalent
 
 1. https://dashboard.signalsciences.net/api/v0/corps/{{corp}}/activity
 2. https://dashboard.signalsciences.net/api/v0/corps/{{corp}}/sites/{{site}}/analytics/events
@@ -17,9 +17,10 @@ It collects activity data at corp level, site level and from the request feed.
 
 ## Configuration Steps
 1. Click on the app , go to Configuration > Add-on Settings and Enter your email address, console generated API token and Corp name.
-   * **Email Address:** This is the username/email address for the Signal Sciences dashboard
-   * **API Token:** Required if you are **not using** your password
-   * **Corp Name** This is the API id for the corp, often if your Display Name for the corp is "Corp ABC" the API Name might be something like `corp-abc`   
+   * **Email Address:** This is the username/email address for the NGWAF dashboard ( Required )
+   * **API Token:** Required if you are **not using** your password ( Required )
+   * **Corp Name** This is your Corp Name short name in your console ( Required )
+  
      ![01.Add-on_Settings](screenshots/01.Add-on_Settings.PNG "Enter Global variable names in the Add-on Settings tab")
 
 2. The logging and Account tab are not currently functional ( leave as is)
