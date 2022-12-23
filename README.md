@@ -17,6 +17,9 @@ It collects activity data at corp level, site level and from the request feed.
 
 ## Configuration Steps
 1. Click on the app , go to Configuration > Add-on Settings and Enter your email address, console generated API token and Corp name.
+   * **Email Address:** This is the username/email address for the Signal Sciences dashboard
+   * **API Token:** Required if you are **not using** your password
+   * **Corp Name** This is the API id for the corp, often if your Display Name for the corp is "Corp ABC" the API Name might be something like `corp-abc`   
      ![01.Add-on_Settings](screenshots/01.Add-on_Settings.PNG "Enter Global variable names in the Add-on Settings tab")
 
 2. The logging and Account tab are not currently functional ( leave as is)
