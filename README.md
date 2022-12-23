@@ -49,11 +49,4 @@ It collects activity data at corp level, site level and from the request feed.
            
 6. If the credential and Input above are correct , you should see your indexes populated as configured in the interval section.
       ### Corp activity search
-          ![08.corp-activity](screenshots/08.corp_activity.PNG "Corp activity events")
-      
-      
-      ### Site activity search
-          ![09.site-activity-search](screenshots/09.site-activity-search.PNG "Site activity events")
-    
-      ### Requests data search
-      https://github.com/FaSiaka007/splunkTA/blob/main/screenshots/08.corp_activity.PNG
+          ![08.corp-activity](https://github.com/FaSiaka007/splunkTA/blob/main/screenshots/08.corp_activity.PNG)
