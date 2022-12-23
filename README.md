@@ -11,7 +11,7 @@ It collects activity data at corp level, site level and from the request feed.
 
 ## Installation steps 
 
-1. download the tgz file at SplunkBase https://splunkbase.com/xxxxxx
+1. download the tgz file in this repo if you are using Splunk On-premise or at SplunkBase https://splunkbase.com/xxxxxx
 2. Install In Splunk 
 3. Configure Indexes related to each API calls or group into one index( a sample indexes.conf name indexes.conf.sample can be found under $SPLUNK_HOME/etc/apps/TA-fastly-ngwaf/local )
 
