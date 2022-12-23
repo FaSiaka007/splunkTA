@@ -48,12 +48,12 @@ It collects activity data at corp level, site level and from the request feed.
            ![07.requests-data](screenshots/07.requests-data.PNG "Fill in the form as indicated above")    
            
 6. If the credential and Input above are correct , you should see your indexes populated as configured in the interval section.
-      ### Corp activity search 
-           ![08.corp-activity](screenshots/08.corp_activity.PNG "Corp activity events")
+      ### Corp activity search
+          ![08.corp-activity](screenshots/08.corp_activity.PNG "Corp activity events")
       
       
-      ### Site activity search     
-           ![09.site-activity-search](screenshots/09.site-activity-search.PNG "Site activity events")
+      ### Site activity search
+          ![09.site-activity-search](screenshots/09.site-activity-search.PNG "Site activity events")
     
       ### Requests data search
-           ![10.requests-search](screenshots/10.requests-search.PNG "Requests data")    
+          ![10.requests-search](screenshots/10.requests-search.PNG "Requests data")    
