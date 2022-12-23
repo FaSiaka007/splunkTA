@@ -45,4 +45,15 @@ It collects activity data at corp level, site level and from the request feed.
     
       ### Requests data      
       Enter a unique name for the data input , an interval of data polling( in seconds) , choose an index and a target site to query
-           ![07.requests-data](screenshots/07.requests-data.PNG "Fill in the form as indicated above")      
+           ![07.requests-data](screenshots/07.requests-data.PNG "Fill in the form as indicated above")    
+           
+6. If the credential and Input above are correct , you should see your indexes populated as configured in the interval section.
+      ### Corp activity
+           ![08.corp-activity](screenshots/08.corp-activity.PNG "Corp activity events")
+      
+      
+      ### Site activity      
+           ![09.site-activity-search](screenshots/09.site-activity.PNG "Site activity events")
+    
+      ### Requests data      
+           ![10.requests-search](screenshots/10.requests-search.PNG "Requests data")    
