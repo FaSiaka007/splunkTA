@@ -17,23 +17,28 @@ It collects activity data at corp level, site level and from the request feed.
 
 ## Configuration Steps
 1. Click on the app , go to Configuration > Add-on Settings and Enter your email address, console generated API token and Corp name.
-  <screenshot01 here>
+     ![01.Add-on_Settings](screenshots/01.Add-on_Settings.PNG "Enter Global variable names in the Add-on Settings tab")
 
 2. The logging and Account tab are not currently functional ( leave as is)
-  <screenshot02 here>
+     ![02.Logging](screenshots/02.Logging.PNG "Leave these tab as is")
 
 3. The proxy function has not been tested so please feel free to send us feedback should you have any
-    <screenshot03 here>
+     ![03.Proxy](screenshots/03.Proxy.PNG "Leave these tab as is")
 
-4. Click on "Create New Input" and Enter the corresponding values in the prompt 
+4. Click on "Create New Input"  
+     ![04.Inputs](screenshots/04.Inputs.PNG "Click on the Inputs tab")
+     
+5. Enter the corresponding values in the prompt 
+       
       ### Corp activity
-      
       Enter a unique name for the data input , an interval of data polling , choose and index and leave the Delta(Minutes) value as is.
+           ![05.corp-activity](screenshots/05.corp-activity.PNG "Fill in the form as indicated above")
       
-      ### Site activity
       
+      ### Site activity      
       Enter a unique name for the data input , an interval of data polling( in seconds) , choose an index and a target site to query
+           ![06.site-activity](screenshots/06.site-activity.PNG "Fill in the form as indicated above")
     
-      ### Requests data
-      
+      ### Requests data      
       Enter a unique name for the data input , an interval of data polling( in seconds) , choose an index and a target site to query
+           ![07.requests-data](screenshots/07.requests-data.PNG "Fill in the form as indicated above")      
